@@ -1,2 +1,2 @@
 # ctci
-Exercises from Cracking the Coding Interview
+Coding exercises
